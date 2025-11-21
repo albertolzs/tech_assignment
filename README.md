@@ -3,6 +3,10 @@
 This is a minimal technical assignment delivering a dashboard that fetches regulatory news for Norges 
 Bank Investment Management's five biggest markets.
 
+<p align="center">
+  <img alt="iMML Logo" src="https://raw.githubusercontent.com/albertolzs/tech_assignment/refs/heads/main/figures/framework.png">
+</p>
+
 ## Quick start
 
 First, clone the repository
