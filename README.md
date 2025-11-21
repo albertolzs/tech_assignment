@@ -4,7 +4,7 @@ This is a minimal technical assignment delivering a dashboard that fetches regul
 Bank Investment Management's five biggest markets.
 
 <p align="center">
-  <img alt="iMML Logo" src="https://raw.githubusercontent.com/albertolzs/tech_assignment/refs/heads/main/figures/framework.png">
+  <img alt="framework" src="https://raw.githubusercontent.com/albertolzs/tech_assignment/refs/heads/main/figures/framework.png">
 </p>
 
 ## Quick start
@@ -51,13 +51,12 @@ Then open the link in your browser.
    uv pip install -r requirements.txt
 ```
 
-3. (Optional but recommended) Install and start Ollama with a model
+3. Install and start Ollama with a model
 
-   - Install Ollama from https://ollama.com (macOS, Linux, Windows)
 ```bash
    curl -fsSL https://ollama.com/install.sh | sh
 ```
-   - Pull a small, capable model (e.g. Llama 3.1 8B):
+Pull a small, capable model (e.g. Llama 3.1 8B):
 ```bash
      ollama pull llama3.2:1b
 ```
